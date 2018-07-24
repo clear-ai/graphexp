@@ -17,7 +17,7 @@ const COMMUNICATION_PROTOCOL = 'REST'
 
 // Graph configuration
 const default_nb_of_layers = 3;
-const node_limit_per_request = 50;
+const node_limit_per_request = 200;
 
 // Simulation
 const force_strength = -600;
